@@ -1,16 +1,14 @@
-# uts_pab_202332128
+Aplikasi ini bertema manajemen kegiatan harian (Daily Activity Manager).
+Tujuannya adalah untuk membantu pengguna dalam mengatur, mencatat, dan memantau aktivitas sehari-hari agar waktu lebih produktif dan terorganisir. Aplikasi ini dirancang dengan tampilan yang sederhana, intuitif, serta mudah digunakan pada perangkat mobile.
 
-A new Flutter project.
+Fitur Utama terdiri dari halaman login, registrasi, dashboard, dan detail kegiatan
+Halaman Login & Registrasi
+Pengguna dapat membuat akun baru atau masuk menggunakan email dan password yang telah terdaftar.
 
-## Getting Started
+Halaman Dashboard
+Menampilkan kalender horizontal yang dapat digulir tanpa batas (infinite scroll) untuk memilih tanggal, serta daftar agenda kegiatan berdasarkan tanggal yang dipilih.
+Pengguna juga dapat menambah kegiatan baru melalui tombol “+”.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Halaman Detail Kegiatan
+Menampilkan informasi lengkap mengenai kegiatan seperti judul, waktu, lokasi, dan deskripsi.
+Pengguna bisa mengedit, menghapus, atau menambahkan pengingat untuk kegiatan tersebut.
