@@ -1,3 +1,5 @@
+## Daily Activity Manager Application
+
 Aplikasi ini bertema manajemen kegiatan harian (Daily Activity Manager).
 Tujuannya adalah untuk membantu pengguna dalam mengatur, mencatat, dan memantau aktivitas sehari-hari agar waktu lebih produktif dan terorganisir. Aplikasi ini dirancang dengan tampilan yang sederhana, intuitif, serta mudah digunakan pada perangkat mobile.
 
